@@ -10,7 +10,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-[tlx.toki.id](https://tlx.toki.id/) answer matches with my logic 
+My [tlx.toki.id](https://tlx.toki.id/) solution using C++
 
 ## ToDo
 - [ ] Complete all questions
